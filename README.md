@@ -10,7 +10,7 @@
 - 💬 Ask me about HTML,CSS, JavaScript, React
 - Want to apply what I have learned to build something that'll help people.
 
-- 📫 How to reach me rinkle.burman1996@gmail.com
+- 📫 How to reach me vijay.bodhgaya6091@gmail.com
 - 📫 Portfolio 
 
 <h3 align="left"><i>Connect with me via:</i></h3>
