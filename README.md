@@ -11,7 +11,7 @@
 - Want to apply what I have learned to build something that'll help people.
 
 - 📫 How to reach me vijay.bodhgaya6091@gmail.com
-- 📫 Portfolio 
+- 📫 Portfolio - https://vijaybodhgaya6091.github.io/
 
 <h3 align="left"><i>Connect with me via:</i></h3>
 <p align="left">
