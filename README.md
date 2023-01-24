@@ -13,6 +13,7 @@
 - 📫 How to reach me vijay.bodhgaya6091@gmail.com
 - 📫 Portfolio - https://vijaybodhgaya6091.github.io/
 
+<img src="https://github-profile-trophy.vercel.app/?username=vijaybodhgaya6091&margin-w=15&margin-h=15&column=8" />
 <h2><i>Let's Connect</i></h2>
 <p align="left">
     <a href="https://www.linkedin.com/in/vijay-kumar-bodhgaya/">
@@ -62,4 +63,4 @@
 </p>
 <br>
 <br>
-![Devendra0192 github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Devendra0192&theme=dracula)
+
