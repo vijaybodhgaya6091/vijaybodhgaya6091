@@ -60,3 +60,6 @@
  <br>
 <img width="95%" height="200" style="margin: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=vijaybodhgaya6091&theme=dark" alt="">
 </p>
+<br>
+<br>
+![vijaybodhgaya6091 github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vijaybodhgaya6091&theme=dracula)
